@@ -1,0 +1,30 @@
+
+
+tr > th {
+  color: midnightblue;
+  text-align: center;
+
+}
+input.ng-dirty.ng-invalid {
+  border: 1px solid red;
+}
+input {
+  width: 20%;
+
+  color: darkslategray;
+}
+
+body {
+  background-color: #007ad9;
+
+}
+
+p-panel{
+  height: 900px;
+}
+
+tr {
+  background-color: deeppink;
+  color: #ffffff;
+}
+
